@@ -50,7 +50,7 @@ Hackbio is a very interesting and unique experience in the sense that it makes p
    </td>
    <td>
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">
+
 
 <img src="images/dp.jpg" width="" alt="alt_text" title="image_tooltip">
 
@@ -63,10 +63,9 @@ Hackbio is a very interesting and unique experience in the sense that it makes p
    </td>
    <td>
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image2.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/gm.jpg" width="" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
@@ -77,10 +76,9 @@ Hackbio is a very interesting and unique experience in the sense that it makes p
    </td>
    <td>
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image3.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/bw.jpg" width="" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
@@ -91,10 +89,8 @@ Hackbio is a very interesting and unique experience in the sense that it makes p
    </td>
    <td>
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-<img src="images/image4.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/pp.jpg" width="" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
@@ -105,7 +101,6 @@ Hackbio is a very interesting and unique experience in the sense that it makes p
    </td>
    <td>
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 <img src="images/image5.png" width="" alt="alt_text" title="image_tooltip">
@@ -119,10 +114,9 @@ Hackbio is a very interesting and unique experience in the sense that it makes p
    </td>
    <td>
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image6.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/s.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
@@ -133,10 +127,9 @@ Hackbio is a very interesting and unique experience in the sense that it makes p
    </td>
    <td>
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image7.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/s.jpg" width="" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
@@ -147,10 +140,9 @@ Hackbio is a very interesting and unique experience in the sense that it makes p
    </td>
    <td>
 
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image8.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/nb.jpg" width="" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
@@ -177,10 +169,10 @@ Hackbio is a very interesting and unique experience in the sense that it makes p
    </td>
    <td>
 
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image9.png" width="" alt="alt_text" title="image_tooltip">
+
+<img src="images/im.jpg" width="" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
@@ -191,10 +183,9 @@ Hackbio is a very interesting and unique experience in the sense that it makes p
    </td>
    <td>
 
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image10.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/cd.jpg" width="" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
@@ -213,10 +204,9 @@ Hackbio is a very interesting and unique experience in the sense that it makes p
    </td>
    <td>
 
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image11.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/sw.jpg" width="" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
@@ -235,10 +225,9 @@ Hackbio is a very interesting and unique experience in the sense that it makes p
    </td>
    <td>
 
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image12.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/vk.jpg" width="" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
