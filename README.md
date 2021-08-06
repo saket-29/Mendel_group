@@ -177,7 +177,7 @@ Hackbio is a very interesting and unique experience in the sense that it makes p
   <tr>
    <td>Ruth Amarachi
    </td>
-   <td>
+   <td>Data Analysis, Epidemiology, Genomic,
    </td>
    <td>
 
