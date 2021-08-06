@@ -1,4 +1,4 @@
-<img src="images/Team-mendel-banner.png">
+![](https://github.com/user/Team-mendel-banner.png)
 <h1># Mendel_group</h1>
 <h2>Mendel group repository for task 1</h2>
 <!-- Output copied to clipboard! -->
