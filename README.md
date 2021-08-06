@@ -1,5 +1,5 @@
 ![](images/Team-mendel-banner.png)
-<h1># Mendel_group</h1>
+<h1># Mendel group</h1>
 <h2>Mendel group repository for task 1</h2>
 <!-- Output copied to clipboard! -->
 
