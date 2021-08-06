@@ -103,7 +103,6 @@ Hackbio is a very interesting and unique experience in the sense that it makes p
 
 
 
-<img src="images/image5.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
@@ -116,7 +115,7 @@ Hackbio is a very interesting and unique experience in the sense that it makes p
 
 
 
-<img src="images/s.png" width="" alt="alt_text" title="image_tooltip">
+
 
    </td>
   </tr>
@@ -129,7 +128,6 @@ Hackbio is a very interesting and unique experience in the sense that it makes p
 
 
 
-<img src="images/s.jpg" width="" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
