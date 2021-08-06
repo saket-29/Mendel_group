@@ -240,13 +240,13 @@ We have written code in various languages like Javascript, perl, R, python etc. 
 
 In an ubuntu terminal run the following code-
 
-git clone [https://github.com/saket-29/Mendel_group.git](https://github.com/saket-29/Mendel_group.git)
+<mark>git clone [https://github.com/saket-29/Mendel_group.git](https://github.com/saket-29/Mendel_group.git)</mark>
 
 After running the code, run the following line-
 
-cd Mendel_group/
+<mark>cd Mendel_group/</mark>
 
 Finally, execute the bash script using-
 
-sh script.sh
+<mark>sh script.sh</mark>
 
