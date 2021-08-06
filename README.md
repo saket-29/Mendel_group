@@ -1,5 +1,5 @@
 # Mendel_group
-Mendel group repository for task 1
+<h2>Mendel group repository for task 1</h2>
 <!-- Output copied to clipboard! -->
 
 <!-----
