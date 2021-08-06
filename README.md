@@ -235,7 +235,11 @@ Hackbio is a very interesting and unique experience in the sense that it makes p
 
 **What we have done-**
 
-We have written code in various languages like Javascript, perl, R, python etc. to print the details about our name, Email ID, slack handle, biostack of choice, twitter handle and hamming distance between twitter and slack username. We have written a shell script that clones the repository containing our code and generates a csv with our details via the said code. It also gives the user description of the destination where the file is stored. 
+We have written code in various languages like Javascript, perl, R, python etc.
+
+![](images/lang.png)
+
+to print the details about our name, Email ID, slack handle, biostack of choice, twitter handle and hamming distance between twitter and slack username. We have written a shell script that clones the repository containing our code and generates a csv with our details via the said code. It also gives the user description of the destination where the file is stored. 
 
 **How to run bash file-**
 
