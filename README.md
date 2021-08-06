@@ -5,7 +5,7 @@ Mendel group repository for task 1
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 6.841 seconds.
+Conversion time: 5.71 seconds.
 
 
 Using this Markdown file:
@@ -18,7 +18,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β30
-* Fri Aug 06 2021 08:45:31 GMT-0700 (PDT)
+* Fri Aug 06 2021 09:20:58 GMT-0700 (PDT)
 * Source doc: Readme
 * Tables are currently converted to HTML tables.
 * This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
@@ -267,3 +267,18 @@ Hackbio is a very interesting and unique experience in the sense that it makes p
 **What we have done-**
 
 We have written code in various languages like Javascript, perl, R, python etc. to print the details about our name, Email ID, slack handle, biostack of choice, twitter handle and hamming distance between twitter and slack username. We have written a shell script that clones the repository containing our code and generates a csv with our details via the said code. It also gives the user description of the destination where the file is stored. 
+
+**How to run bash file-**
+
+In an ubuntu terminal run the following code-
+
+git clone [https://github.com/saket-29/Mendel_group.git](https://github.com/saket-29/Mendel_group.git)
+
+After running the code, run the following line-
+
+cd Mendel_group/
+
+Finally, execute the bash script using-
+
+sh script.sh
+
