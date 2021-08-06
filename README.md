@@ -240,14 +240,14 @@ We have written code in various languages like Javascript, perl, R, python etc. 
 **How to run bash file-**
 
 In an ubuntu terminal run the following code-
-
+```
 git clone [https://github.com/saket-29/Mendel_group.git](https://github.com/saket-29/Mendel_group.git)
-
+```
 After running the code, run the following line-
-
+```
 cd Mendel_group/
-
+```
 Finally, execute the bash script using-
-
+```
 sh script.sh
-
+```
